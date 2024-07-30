@@ -1,0 +1,3 @@
+cd xsens_real_time/test_tkinder
+conda activate IMU_paper
+python combine.py
